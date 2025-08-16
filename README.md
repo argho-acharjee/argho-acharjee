@@ -14,7 +14,7 @@
 - 🎯 Goal: To become a skilled developer & contribute to open source  
 - 📫 Reach me at:  
   📧 acharjeeargho@gmail.com 
-  🔗 [LinkedIn](your-linkedin-profile-url)  
+  🔗 [LinkedIn](https://www.linkedin.com/in/argho-acharjee/)  
 
 ---
 
