@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning: **Python, Git & GitHub**  
 - 🎯 Goal: To become a skilled developer & contribute to open source  
 - 📫 Reach me at:  
-  📧 [your-email-here]  
+  📧 acharjeeargho@gmail.com 
   🔗 [LinkedIn](your-linkedin-profile-url)  
 
 ---
@@ -32,8 +32,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=argho-acharjee&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argho-acharjee&layout=compact&theme=radical" height="160" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ## 🔥 Streak Stats  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=radical&border_radius=10" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=argho-acharjee&theme=radical&border_radius=10" height="160"/>
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ## 👀 Visitor Count  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=argho-acharjee&style=for-the-badge&color=brightgreen" />
 </p>
 
 ---
